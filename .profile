@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export CLICOLOR=
-export PS1="$ "
+export PS1="\W $ "
 export EDITOR="vi"
 export PATH=$PATH:~/bin
 
@@ -13,3 +13,5 @@ fi
 
 alias c='clear'
 alias j='jazor -c'
+
+fortune -a

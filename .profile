@@ -13,5 +13,7 @@ fi
 
 alias c='clear'
 alias j='jazor -c'
+alias lastf="ls -t | head -1"
+alias cdpwd="cd `pwd`"
 
 fortune -a

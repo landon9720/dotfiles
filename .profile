@@ -3,7 +3,7 @@
 export CLICOLOR=
 export PS1="\W $ "
 export EDITOR="vi"
-export PATH=$PATH:~/bin
+export PATH=$PATH:~/bin:~/Google\ Drive/bin:
 
 PROFILE_LOCAL="$HOME/.profile_local"
 if [ -e "$PROFILE_LOCAL" ]

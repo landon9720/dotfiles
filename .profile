@@ -3,7 +3,7 @@
 export CLICOLOR=
 export PS1="\W $ "
 export EDITOR="vi"
-export PATH=$PATH:~/bin:~/Google\ Drive/bin:
+export PATH=$PATH:~/bin:
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 PROFILE_LOCAL="$HOME/.profile_local"
